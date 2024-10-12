@@ -1,4 +1,5 @@
-<!---![](https://raw.githubusercontent.com/elenajp/elenajp/main/me_diving.png)--->
+![](github-header.png)
+
 - 👋 Hi, I’m @sivamani2943
 - 👀 I’m interested in ...devops
 - 🌱 I’m currently learning ...java full stack development
