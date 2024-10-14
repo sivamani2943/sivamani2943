@@ -3,10 +3,24 @@
 - 👋 Hi, I’m @sivamani2943
 - 👀 I’m interested in ...devops
 - 🌱 I’m currently learning ...java full stack development
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivamani2943&show_icons=true&theme=radical)
   
 ## 🖇️ Let's connect!
 [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/asam-siva-manikanta-reddy-089a61251/)
+[![X Badge](https://img.shields.io/badge/-@sivamani-black?style=flat&logo=x&logoColor=white)](https://x.com/SivaManiasam)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mr.siv.money/)
 
+## 📫 How to reach me:
+
+Feel free to reach out on any of the social platforms listed above, or email me at: `2100039060cse.r@gmail.com` or `asamsivamani18@gmail.com`.
+
+<!-- Add a footer GIF for fun -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Keep in touch!" width="200"/>
+</p>
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
