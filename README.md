@@ -17,10 +17,6 @@
 
 Feel free to reach out on any of the social platforms listed above, or email me at: `2100039060cse.r@gmail.com` or `asamsivamani18@gmail.com`.
 
-<!-- Add a footer GIF for fun -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Keep in touch!" width="200"/>
-</p>
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
