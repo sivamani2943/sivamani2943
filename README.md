@@ -1,4 +1,4 @@
-![InfinityLoopGIF](https://github.com/user-attachments/assets/bfffb4fe-5766-434a-8b00-ff6231ef9cc5)![](github-header.png)
+![](github-header.png)
 
 - 👋 Hi, I’m @sivamani2943
 - 👀 I’m interested in ... Dev♾️Ops
