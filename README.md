@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I’m Sivamani Asam</h1>
 
-<img align="center" width="500" src="profileforgit.webp">
+<img align="center" width="800" src="profileforgit.webp">
 <!---![](profileforgit.webp)--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivamani2943&label=Profile%20views&color=0e75b6&style=flat" alt="sivamani2943" /> </p>
 
