@@ -1,11 +1,13 @@
-👋 Hi, I’m @sivamani2943
+<h1 align="center"> Hi 👋, I’m Sivamani Asam</h1>
 
-![](profileforgit.webp)
+<img align="right" width="500" src="profileforgit.webp">
+<!---![](profileforgit.webp)--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivamani2943&label=Profile%20views&color=0e75b6&style=flat" alt="sivamani2943" /> </p>
 
 - 👀 I’m interested in ... Dev♾️Ops
 - 🌱 I’m currently learning ... Full stack development
 
-## 📈 GitHub Stats
+<h3 align="left"> 📈 GitHub Stats</h3>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivamani2943&show_icons=true&theme=radical)
   
